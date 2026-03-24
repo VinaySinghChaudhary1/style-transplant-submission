@@ -4,6 +4,5 @@
   "concept": "Gradient descent — a first-order optimization algorithm that iteratively reduces a loss function by moving in the direction of steepest descent, converging toward a local minimum.",
   "tradition_name": "Bauhaus graphic design",
   "tradition_period": "1919–1933",
-  "tradition_approach": "Geometric abstraction with primary colors, sans-serif typography, grid-based composition, figure-ground contrast, and flat areas of unmodulated color—no gradients, shadows, or decoration. Descent path rendered as crisp lines and colored shapes on white background.",
-  "publish_email": false
+  "tradition_approach": "Geometric abstraction with primary colors, sans-serif typography, grid-based composition, figure-ground contrast, and flat areas of unmodulated color—no gradients, shadows, or decoration. Descent path rendered as crisp lines and colored shapes on white background."
 }
